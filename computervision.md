@@ -8,3 +8,4 @@
 [ webrtc+ object detection](https://webrtchacks.com/webrtc-cv-tensorflow/)
 [ Facial recognition with facebook faiss ](https://github.com/sankovalev/Look4Face)
 [ Compare images with SSIM ](https://github.com/khrynczenko/compimg)
+[ Video Hashing from FB](https://github.com/facebook/ThreatExchange/tree/master/hashing/tmk)
