@@ -9,3 +9,6 @@
 [ Facial recognition with facebook faiss ](https://github.com/sankovalev/Look4Face)
 [ Compare images with SSIM ](https://github.com/khrynczenko/compimg)
 [ Video Hashing from FB](https://github.com/facebook/ThreatExchange/tree/master/hashing/tmk)
+[ small facenet service with annoy index and sqlite ](https://github.com/mehmetozturk4705/OneShotFaceDetectorWebService)
+[ Selfie Central , extract images from instagram and make face recognition](https://kndrck.co/posts/indexing_faces_on_selfie_central/)
+[ Operaciones utiles para Mejorar lectura OCR ](https://alquimistadesistemas.com/resolver-captcha-con-python-convert-y-tesseract.html)
