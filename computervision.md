@@ -12,3 +12,6 @@
 [ small facenet service with annoy index and sqlite ](https://github.com/mehmetozturk4705/OneShotFaceDetectorWebService)
 [ Selfie Central , extract images from instagram and make face recognition](https://kndrck.co/posts/indexing_faces_on_selfie_central/)
 [ Operaciones utiles para Mejorar lectura OCR ](https://alquimistadesistemas.com/resolver-captcha-con-python-convert-y-tesseract.html)
+[ Tensornets arquitecturas faciles para implementar en tensorflow](https://github.com/taehoonlee/tensornets)
+[ Yolo v3 en TF2 ](https://awesomeopensource.com/project/zzh8829/yolov3-tf2)
+[ Album facrecognition ](https://github.com/hooram/ownphotos)
