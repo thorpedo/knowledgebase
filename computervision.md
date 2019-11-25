@@ -15,3 +15,6 @@
 [ Tensornets arquitecturas faciles para implementar en tensorflow](https://github.com/taehoonlee/tensornets)
 [ Yolo v3 en TF2 ](https://awesomeopensource.com/project/zzh8829/yolov3-tf2)
 [ Album facrecognition ](https://github.com/hooram/ownphotos)
+[ Easy Landmark detection ( localizaciones geograficas )](https://medium.com/@chengweizhang2012/easy-landmark-image-recognition-with-tensorflow-hub-delf-module-3cf2ffa3b259)
+[ postgresql face recognition ](https://github.com/vearutop/face-postgre)
+[ OCR techniques ](https://nanonets.com/blog/id-card-digitization-deep-learning/?utm_source=reddit&utm_medium=social&utm_campaign=gcnid&utm_content=lt)
